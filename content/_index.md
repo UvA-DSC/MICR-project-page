@@ -1,6 +1,8 @@
 ---
 title: "MICR: Towards A Modular Infrastructure for Comprehensive RDM"
 toc: true
+sidebar:
+  hide: true
 ---
 
 <p style="text-align: center;">A TDCC-SSH Challenge Project</p>
