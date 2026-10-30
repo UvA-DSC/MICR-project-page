@@ -25,7 +25,6 @@ infrastructures contextualized with use-cases of the research life cycle to iden
   {{< card title="Frans Oort (UvA)" image="person/frans-oort.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1" >}}
   {{< card title="Marcel Ras (VU)" image="person/marcel-ras.jpg" method="Fill" options="600x600 q90 webp" tag="WP 3" >}}
   {{< card title="Maarten Hoogerwerf (SURF)" image="person/maarten-hoogerwerrf.jpg" method="Fill" options="600x600 q90 webp" tag="WP 2" >}}
-  {{< card title="Eva Lekkerkerker (UvA)" image="person/eva-lekkerkerker.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1" >}}
   {{< card title="Emma Schreurs (UvA)" image="person/emma-schreurs.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1/3" >}}
   {{< card title="Tako Horsley (UvA)" image="person/tako-horsley.jpg" method="Fill" options="600x600 q90 webp" tag="WP 2" >}}
   {{< card title="Samantha Larson (VU)" image="person/sl_photo.jpg" method="Fill" options="600x600 q90 webp" tag="WP 3" >}}
