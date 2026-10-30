@@ -31,7 +31,7 @@ menu:
       pageRef: /events/
       weight: 4
     - name: Contact ↗
-      url: "mailto:e.lekkerkerker@uva.nl?cc=f.j.oort@uva.nl&subject=MICR%20project%20contact%20request"
+      url: "mailto:micr-icts@uva.nl?subject=MICR%20project%20contact%20request"
       weight: 5
 
 params:
