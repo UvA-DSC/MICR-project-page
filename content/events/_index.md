@@ -31,11 +31,6 @@ We will discuss our recommendations and possible actions at institutional and na
     </a>
   </strong>
 
-<p>
-  For questions, contact us at
-  <a href="mailto:micr-icts@uva.nl">micr-icts@uva.nl</a>.
-</p>
-
 ## Past Events 
 
 {{< icon "calendar" >}} **MICR Online Kick-Off Meeting: 24 June**
