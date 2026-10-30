@@ -10,18 +10,18 @@ toc: true
 Join our upcoming webinars to discuss findings, recommendations and possible next steps for research data management (RDM) infrastructure in the social sciences and humanities.
 Through case studies, a survey, and follow-up interviews, we have explored how RDM infrastructure at Dutch research institutions helps researchers meet policy requirements and where it shows shortcomings or gaps (i.e., a fit-gap analysis).
 
-{{< icon "calendar" >}} **Webinar 1: Findings and feedback**
-{{< icon "information-circle" >}}Date: 18 November
-{{< icon "clock" >}}Time: 12:30–14:00 (CET)
+{{< icon "calendar" >}} **Webinar 1: Findings and feedback** <br>
+{{< icon "information-circle" >}}Date: 18 November <br>
+{{< icon "clock" >}}Time: 12:30–14:00 (CET) <br>
 
-We will present the findings of our fit-gap analysis and our initial recommendations, and invite your feedback on whether these reflect your experiences.
+We will present the findings of our fit-gap analysis and our initial recommendations, and invite your feedback on whether these reflect your experiences.<br>
 **Who is it for?** RDM support staff, including data stewards, and others involved in RDM infrastructure.
 
-{{< icon "calendar" >}} **Webinar 2: Recommendations and call to action**
-{{< icon "information-circle" >}}Date: 8 December
-{{< icon "clock" >}}Time: 11:00–12:30 (CET)
+{{< icon "calendar" >}} **Webinar 2: Recommendations and call to action**<br>
+{{< icon "information-circle" >}}Date: 8 December<br>
+{{< icon "clock" >}}Time: 11:00–12:30 (CET)<br>
 
-We will discuss our recommendations and possible actions at institutional and national levels.
+We will discuss our recommendations and possible actions at institutional and national levels.<br>
 **Who is it for?** Colleagues in management or leadership roles with responsibility for strategic decisions, policy or finances relating to RDM infrastructure.
 
 **Registration and contact**
