@@ -24,7 +24,7 @@ We will present the findings of our fit-gap analysis and our initial recommendat
 We will discuss our recommendations and possible actions at institutional and national levels.<br>
 **Who is it for?** Colleagues in management or leadership roles with responsibility for strategic decisions, policy or finances relating to RDM infrastructure.
 
-**Registration and contact**
+**Registration and contact**<br>
   <strong>
     <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05YmKIJHLUEdHqxm-TocRrvRUQlc5QkwyTElDN01HSkc2UzhKWUw4SlNOTi4u">
       Register your interest in one or both webinars via this form.
