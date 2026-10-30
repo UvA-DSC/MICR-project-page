@@ -28,7 +28,8 @@ infrastructures contextualized with use-cases of the research life cycle to iden
   {{< card title="Eva Lekkerkerker (UvA)" image="person/eva-lekkerkerker.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1" >}}
   {{< card title="Emma Schreurs (UvA)" image="person/emma-schreurs.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1/3" >}}
   {{< card title="Tako Horsley (UvA)" image="person/tako-horsley.jpg" method="Fill" options="600x600 q90 webp" tag="WP 2" >}}
-  {{< card title="Samantha Larson (VU)" tag="WP 3" >}}
+  {{< card title="Samantha Larson (VU)" image="person/sl_photo.jpg" method="Fill" options="600x600 q90 webp" tag="WP 3" >}}
+  {{< card title="Iza Korsmit (UvA)" image="person/iza-korsmit.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1/3" >}}
   {{< card title="Mark Thompson (VU)" tag="WP 2" >}}
   {{< card title="Kees den Heijer (SURF)" image="person/kees-den-heijer.jpg" method="Fill" options="600x600 q90 webp" tag="Project Liaison" >}}
 {{< /cards >}}
